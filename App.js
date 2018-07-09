@@ -5,8 +5,8 @@
  */
 
 import React, { Component } from 'react';
-import {
-import { Text } from 'react-native';
+import {Text } from 'react-native';
+import { 
   Platform,
   StyleSheet,
   Text,
@@ -30,7 +30,7 @@ export default class App extends Component<Props> {
           Welcome to React Native!
         </Text>
         <Text>Nguyen Thanh Nam
-         {console.log("Day là log")}
+        
         </Text>
         <Text>Namnt</Text>
         <Text style={styles.instructions}>
