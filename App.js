@@ -5,7 +5,6 @@
  */
 
 import React, { Component } from 'react';
-import {Text } from 'react-native';
 import { 
   Platform,
   StyleSheet,
@@ -29,7 +28,6 @@ export default class App extends Component<Props> {
         <Text style={styles.welcome}>
           Welcome to React Native!
         </Text>
-
         <Text>Nguyen Thanh Nam</Text>
 
         <Text>Nguyen Thanh Nam
