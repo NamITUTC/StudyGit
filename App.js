@@ -6,6 +6,7 @@
 
 import React, { Component } from 'react';
 import {
+import { Text } from 'react-native';
   Platform,
   StyleSheet,
   Text,
@@ -31,6 +32,7 @@ export default class App extends Component<Props> {
         <Text>Nguyen Thanh Nam
          {console.log("Day là log")}
         </Text>
+        <Text>Namnt</Text>
         <Text style={styles.instructions}>
           To get started, edit App.js
         </Text>
