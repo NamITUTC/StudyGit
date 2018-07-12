@@ -7,24 +7,15 @@ import {
   View,
   TouchableOpacity
 } from 'react-native';
-<<<<<<< HEAD
 
 export default class Login extends Component{
   render(){
     return(
       <View>
       <TouchableOpacity>
-      <Text>Login</Text>
+      <Text style={{}}>Login</Text>
       </TouchableOpacity>
       </View>
     );
   }
-=======
-render(){
-return(
-  <View>
-  <Text>Login</Text>
-  </View>
-);
->>>>>>> namnt
 }

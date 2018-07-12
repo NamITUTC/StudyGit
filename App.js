@@ -33,12 +33,7 @@ export default class App extends Component<Props> {
           Welcome to React Native!
         </Text>
         <Text>Nguyen Thanh Nam</Text>
-<<<<<<< HEAD
-        <Text>Namnt</Text>
         <Text>Master</Text>
-=======
-        <Text>NamntOK</Text>
->>>>>>> namnt
         <Text style={styles.instructions}>
           To get started, edit App.js
         </Text>
