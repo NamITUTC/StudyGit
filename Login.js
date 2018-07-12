@@ -14,6 +14,7 @@ export default class Login extends Component{
       <View>
       <TouchableOpacity>
       <Text>Login</Text>
+      <Text>LoginNamnt2</Text>
       </TouchableOpacity>
       </View>
     );

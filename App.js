@@ -31,6 +31,7 @@ export default class App extends Component<Props> {
         <Text>Nguyen Thanh Nam</Text>
         <Text>Namnt</Text>
         <Text>Master</Text>
+        <Text>Namnt2</Text>
         <Text style={styles.instructions}>
           To get started, edit App.js
         </Text>
