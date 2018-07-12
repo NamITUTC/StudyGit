@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import {Text } from 'react-native';
-import { 
+import {
   Platform,
   StyleSheet,
   Text,
@@ -12,7 +12,9 @@ export default class Login extends Component{
   render(){
     return(
       <View>
-
+      <TouchableOpacity>
+      <Text>Login</Text>
+      </TouchableOpacity>
       </View>
     );
   }

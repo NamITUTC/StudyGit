@@ -5,7 +5,7 @@
  */
 
 import React, { Component } from 'react';
-import { 
+import {
   Platform,
   StyleSheet,
   Text,
@@ -30,7 +30,7 @@ export default class App extends Component<Props> {
         </Text>
         <Text>Nguyen Thanh Nam</Text>
         <Text>Namnt</Text>
-
+        <Text>Master</Text>
         <Text style={styles.instructions}>
           To get started, edit App.js
         </Text>
