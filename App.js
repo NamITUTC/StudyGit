@@ -3,8 +3,6 @@
  * https://github.com/facebook/react-native
  * @flow
  */
-
-import React, { Component } from 'react';
 import {Text } from 'react-native';
 import {
   Platform,
@@ -30,7 +28,7 @@ export default class App extends Component<Props> {
           Welcome to React Native!
         </Text>
         <Text>Nguyen Thanh Nam</Text>
-        <Text>NamntOK</Text>
+        <Text>Master</Text>
         <Text style={styles.instructions}>
           {instructions}
         </Text>
