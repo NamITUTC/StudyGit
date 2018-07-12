@@ -7,6 +7,7 @@ import {
   View,
   TouchableOpacity
 } from 'react-native';
+<<<<<<< HEAD
 
 export default class Login extends Component{
   render(){
@@ -18,4 +19,12 @@ export default class Login extends Component{
       </View>
     );
   }
+=======
+render(){
+return(
+  <View>
+  <Text>Login</Text>
+  </View>
+);
+>>>>>>> namnt
 }
