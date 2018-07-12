@@ -13,7 +13,7 @@ export default class Login extends Component{
     return(
       <View>
       <TouchableOpacity>
-      <Text style={{}}>Login</Text>
+      <Text style={{color:'black'}}>Login</Text>
       </TouchableOpacity>
       </View>
     );
