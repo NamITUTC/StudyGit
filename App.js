@@ -8,7 +8,8 @@ import {
   Platform,
   StyleSheet,
   Text,
-  View
+  View,
+  Button
 } from 'react-native';
 
 
@@ -29,9 +30,7 @@ export default class App extends Component<Props> {
         </Text>
         <Text>Nguyen Thanh Nam</Text>
         <Text>Master</Text>
-        <Text style={styles.instructions}>
-          {instructions}
-        </Text>
+        <Button></Button>
       </View>
     );
   }
