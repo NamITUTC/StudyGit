@@ -10,7 +10,7 @@ import {
 render(){
 return(
   <View>
-  <Text>Login</Text>
+  <Text>Login2</Text>
   </View>
 );
 }
